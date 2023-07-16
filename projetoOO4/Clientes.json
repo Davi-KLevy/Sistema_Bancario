@@ -1,0 +1,82 @@
+{
+    "7104.0-16": {
+        "Tipo": "Pessoa",
+        "Nome": "Davi Fonseca R.",
+        "Endereco": "Brasilia, Asa Sul",
+        "Telefone": "8344-5678",
+        "Senha": "senha",
+        "CPF/CNPJ": "783990123-76",
+        "Saldo": 0.0,
+        "Credito": 0
+    },
+    "4167.1-46": {
+        "Tipo": "Empresa",
+        "Nome": "Apple",
+        "Endereco": "Abadiania Sul",
+        "Telefone": "8000-3432",
+        "Senha": "senha",
+        "CPF/CNPJ": "32498234.432",
+        "Saldo": 50000.0,
+        "Credito": 0.0
+    },
+    "9727.0-81": {
+        "Tipo": "Pessoa",
+        "Nome": "Julia Macaroto",
+        "Endereco": "Minas ",
+        "Telefone": "3453-3453",
+        "Senha": ";RIpr\"[l",
+        "CPF/CNPJ": "734487123.55",
+        "Saldo": 275.0,
+        "Credito": 0.0
+    },
+    "3563.0-12": {
+        "Tipo": "Pessoa",
+        "Nome": "Benedito Ali Bermin",
+        "Endereco": "Sul Asa",
+        "Telefone": "9999-9999",
+        "Senha": "senha",
+        "CPF/CNPJ": "887884821-00",
+        "Saldo": 1200.53,
+        "Credito": 0.0
+    },
+    "1302.1-37": {
+        "Tipo": "Empresa",
+        "Nome": "Amazon",
+        "Endereco": "Vidigal 100",
+        "Telefone": "8000-1234",
+        "Senha": "SempreAlem123",
+        "CPF/CNPJ": "345234592844.22",
+        "Saldo": 122592.91,
+        "Credito": 40000.0
+    },
+    "1262.0-60": {
+        "Tipo": "Pessoa",
+        "Nome": "Nevil Longbottom",
+        "Endereco": "Brasilia",
+        "Telefone": "99133-9938",
+        "Senha": "senha",
+        "CPF/CNPJ": "123854888-00",
+        "Saldo": 123.45,
+        "Credito": 0.0
+    },
+    "8290.0-94": {
+        "Tipo": "Pessoa",
+        "Nome": "Davi Levy",
+        "Endereco": "sqs 112 bloco A",
+        "Telefone": "99122-6858",
+        "Senha": "senha",
+        "CPF/CNPJ": "738095352-68",
+        "Saldo": 300.0,
+        "Credito": 0.0
+    },
+    "8582.0-16": {
+        "Tipo": "Pessoa",
+        "Nome": "Vitor Belford",
+        "Endereco": "Miami, California",
+        "Telefone": "8888-9999",
+        "Senha": ">i}Sv>F$",
+        "CPF/CNPJ": "735666543-00",
+        "Saldo": 555.0,
+        "Credito": 0.0
+    }
+}
